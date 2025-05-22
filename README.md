@@ -1,16 +1,28 @@
-## Hi there 👋
+# ✨ Hey! I'm Alison Alpízar Zúñiga 🦋
 
-<!--
-**Buterflyyy/Buterflyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Business Informatics student at the University of Costa Rica  
+📄 I enjoy documenting systems, organizing ideas, and working with data  
+🦋 Creator of a digital **Butterfly Garden** project with web and database integration  
+🌐 Exploring web development and real-life applications through university projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+
+- 🐛 **Mariposario Web System** — A dynamic butterfly exhibit website for educational purposes  
+- 🍽️ **Caribbean Gastronomy** — Academic site about Limón’s culinary culture (recipes + traditions)  
+- 🧠 **IntelTaskPJ (in progress)** — Task & documentation system designed for OIJ’s workflow  
+- 🧪 **AI Object Detection (test only)** — Experimenting with pre-trained libraries using MediaPipe
+
+---
+
+## 🛠️ Tools I Use
+
+`HTML` • `CSS` • `JavaScript` • `PHP` • `SQL`  
+`Python` • `Git/GitHub` • `Bootstrap` • `Google Cloud`
+
+---
+
+## 🌐 Let’s Connect
+
+[![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-alpízar-zúñiga-03969b358/)
