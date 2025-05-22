@@ -1,15 +1,15 @@
 # ✨ Hey! I'm Alison Alpízar Zúñiga 🦋
 
 🎓 Final-year Business Informatics student at the University of Costa Rica  
-📄 I enjoy documenting systems, organizing ideas, and working with data  
-🦋 Creator of a digital **Butterfly Garden** project with web and database integration  
+📄 I enjoy documenting systems, organizing ideas, and working with data   
 🌐 Exploring web development and real-life applications through university projects  
 
 ---
 
 ## 💼 Projects
 
-- 🐛 **Mariposario Web System** — A dynamic butterfly exhibit website for educational purposes  
+- 🐛 **Mariposario Web System** 🦋 — A dynamic butterfly exhibit website for educational purposes
+- 💸 **SINPE Simulator** — Academic project simulating Costa Rica’s interbank money transfer system  
 - 🍽️ **Caribbean Gastronomy** — Academic site about Limón’s culinary culture (recipes + traditions)  
 - 🧠 **IntelTaskPJ (in progress)** — Task & documentation system designed for OIJ’s workflow  
 - 🧪 **AI Object Detection (test only)** — Experimenting with pre-trained libraries using MediaPipe
