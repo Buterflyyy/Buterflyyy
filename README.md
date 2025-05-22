@@ -25,4 +25,4 @@
 
 ## 🌐 Let’s Connect
 
-[![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-alpizar-zúñiga-03969b358/)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Alison%20Alpízar-%237b2cbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-alpizar-zúñiga-03969b358/)
